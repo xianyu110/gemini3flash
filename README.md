@@ -6,7 +6,7 @@
 
 别被"轻量级"标签骗了，这家伙的性能简直让人瞠目结舌！更疯狂的是，它的**定价只有Claude的1/5、GPT的1/4**！用白菜价，打出了旗舰级的水准，这波操作，Google真的赢麻了！
 
-![Gemini 3 Flash发布](https://i-blog.csdnimg.cn/img_convert/1a692d65900e813605ec29fbddfc5bc3.jpeg)
+![Gemini 3 Flash发布](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/1a692d65900e813605ec29fbddfc5bc3-20251218015851227.jpeg)
 
 ---
 
@@ -20,7 +20,7 @@
 
 看看它在多模态评估基准**MMMU-Pro**上的表现，简直不要太抢眼！👇
 
-![MMMU-Pro性能展示](https://i-blog.csdnimg.cn/img_convert/37525160acdd5e1a15ee267824259f36.jpeg)
+![MMMU-Pro性能展示](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/37525160acdd5e1a15ee267824259f36-20251218015851378.jpeg)
 
 ### 🚀 SWE-bench编码能力史上首次超越旗舰
 
@@ -32,7 +32,7 @@
 
 这简直是"以下克上"的典范，Flash系列彻底打了个翻身仗！
 
-![SWE-bench性能对比](https://i-blog.csdnimg.cn/img_convert/dda77708b27bfb5e45a7c9d81d972be0.jpeg)
+![SWE-bench性能对比](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/dda77708b27bfb5e45a7c9d81d972be0.jpeg)
 
 ---
 
@@ -50,7 +50,7 @@
 
 **一句话就能生成可玩游戏！**从文字到互动，未来游戏开发要变天了！
 
-![游戏生成演示](https://i-blog.csdnimg.cn/img_convert/d790ad40162cc533e4e20f151df5a2d5.gif)
+![游戏生成演示](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/d790ad40162cc533e4e20f151df5a2d5.gif)
 
 ### 🤖 实时视频分析
 
@@ -66,12 +66,12 @@
 
 不信？咱们拿数据说话！看看Gemini 3 Flash是如何"降维打击"竞品的：
 
-| 基准测试项目 | Gemini 3 Flash | Claude Sonnet 4.5 | GPT-5.2 | Gemini 3 Pro |
-|-------------|---------------|------------------|---------|--------------|
-| **GPQA Diamond** (博士级科学推理) | **90.4%** | 83.4% | 92.4% | **91.9%** |
-| **MMMU-Pro** (多模态理解) | **81.2%** | 约65-70% | 79.5% | - |
-| **Humanity's Last Exam** (无工具) | **33.7%** | 13.7% | - | **37.5%** |
-| **SWE-bench Verified** (编码能力) | **78%** | 77.2% | - | 76.2% |
+| 基准测试项目                      | Gemini 3 Flash | Claude Sonnet 4.5 | GPT-5.2 | Gemini 3 Pro |
+| --------------------------------- | -------------- | ----------------- | ------- | ------------ |
+| **GPQA Diamond** (博士级科学推理) | **90.4%**      | 83.4%             | 92.4%   | **91.9%**    |
+| **MMMU-Pro** (多模态理解)         | **81.2%**      | 约65-70%          | 79.5%   | -            |
+| **Humanity's Last Exam** (无工具) | **33.7%**      | 13.7%             | -       | **37.5%**    |
+| **SWE-bench Verified** (编码能力) | **78%**        | 77.2%             | -       | 76.2%        |
 
 > 💡 **小提示**: Claude Sonnet 4.5在MMMU-Pro上分数低于70%，Flash可领先它十几个百分点哦！
 
@@ -81,7 +81,7 @@
 
 用这么点钱，就能享受到打平甚至超越旗舰级的性能，这简直是AI界的"薅羊毛"福利！以前为了省钱得牺牲智能，现在嘛，**Flash让你省钱又省心，性能还顶尖！**
 
-![价格优势展示](https://i-blog.csdnimg.cn/img_convert/37700a4cb2dd3a88e43467e147938e4c.jpeg)
+![价格优势展示](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/37700a4cb2dd3a88e43467e147938e4c.jpeg)
 
 ### 🤔 Gemini 3 Pro还有啥用？
 
@@ -102,7 +102,7 @@ Google给出了明确的"分工方案"：
 - **输出**: $3.00/百万tokens
 - **对��**: 只有3 Pro的四分之一！
 
-![性能成本最优解](https://i-blog.csdnimg.cn/img_convert/11962d193f3230db8ee7900850ea2096.jpeg)
+![性能成本最优解](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/11962d193f3230db8ee7900850ea2096.jpeg)
 
 Google官方更是霸气宣言：**"速度和规模，不必以牺牲智能为代价！"**以前听着像口号，现在Flash用实力证明，这真的不是在吹牛！
 
@@ -124,7 +124,7 @@ Gemini 3 Flash的发布，可不只是开发者API升级那么简单，它将**�
 - **🤔 Thinking（思考）**: 依然是**Flash 3**，但会激活它的"深度思考"模式，专门对付那些烧脑的复杂逻辑题！
 - **👑 Pro（专业）**: 保留了**Gemini 3 Pro**，遇到"史诗级"数学和代码难题，它就是你的终极武器！
 
-![Gemini App三种模式](https://i-blog.csdnimg.cn/img_convert/8e1b301004be30824b71d13e2468698e.jpeg)
+![Gemini App三种模式](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/8e1b301004be30824b71d13e2468698e.jpeg)
 
 ### 🔍 Google Search AI Mode升级
 
@@ -150,6 +150,7 @@ Google说了，多亏了3 Flash强大的推理和多模态能力，AI Mode现在
 **Gemini 3 Flash完美终结了这场"选择困难症"！**
 
 它做到了：
+
 - ✅ **足够快**: 比2.5 Pro快3倍，搞定实时场景毫无压力
 - ✅ **足够聪明**: SWE-bench 78%的编码能力，轻松处理复杂编程任务
 - ✅ **成本可控**: 仅为竞品1/5的价格，大规模部署成为可能！
