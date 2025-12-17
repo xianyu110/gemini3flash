@@ -1,52 +1,235 @@
-# 🔥 Google Gemini 3 Flash - 王炸登场！价格打骨折，性能却逆天？
+# 🔥 王炸！Google Gemini 3 Flash 横空出世！价格打骨折，性能却逆天？它改写了AI大模型的游戏规则！🤯
 
-## 🌐 访问地址
+## 📰 重磅发布
 
-**GitHub Pages:** https://xianyu110.github.io/gemini3flash/
+**2025年12月18日，Google正式发布革命性的Gemini 3 Flash模型！**
 
-## 📱 立即体验
+别被"��量级"标签骗了，这家伙的性能简直让人瞠目结舌！更疯狂的是，它的**定价只有Claude的1/5、GPT的1/4**！用白菜价，打出了旗舰级的水准，这波操作，Google真的赢麻了！
 
-- 🇨🇳 [国内用户访问](https://maynorai.top/list/#/home)
-- 👨‍💻 [API使用指南](https://apipro.maynor1024.live/)
-- 🚀 [Gemini App](https://gemini.google.com/)
+![Gemini 3 Flash发布](https://mmbiz.qpic.cn/sz_mmbiz_jpg/1ibrBHWruibROdUxWDD5I2RwvupF0TbdxSZKQMmxX4I9Qwadcx8xaKnJezNnd1JR1bRHAQUeOYeq0iayevojXmcXA/640?wx_fmt=jpeg&from=appmsg&wxfrom=13&tp=wxpic&watermark=1#imgIndex=0)
 
 ---
 
-## 📋 如何启用GitHub Pages
+## ✨ 颠覆认知：Flash不再是"廉价替代品"，而是"性价比之王"！
 
-如果网站无法访问，请按照以下步骤手动启用：
+你以为"Flash"模型就是图个快、图个便宜，性能肯定要打折扣？大错特错！
 
-### 方法1：通过GitHub界面（推荐）
+**Gemini 3 Flash彻底改写了游戏规则！**它用轻量级的身躯，爆发出了旗舰级的能量，完美实现了速度、成本和智能的"不可能三角"平衡！
 
-1. 访问你的仓库：https://github.com/xianyu110/gemini3flash
-2. 点击 **Settings** 标签页
-3. 在左侧菜单中找到 **Pages**
-4. 在 "Source" 下选择 **Deploy from a branch**
-5. 设置：
-   - Branch: **main**
-   - Folder: **/(root)**
-6. 点击 **Save**
+### 📊 多模态评估基准MMMU-Pro表现抢眼
 
-### 方法2：等待GitHub Actions自动部署
+![MMMU-Pro性能展示](https://mmbiz.qpic.cn/sz_mmbiz_jpg/1ibrBHWruibROdUxWDD5I2RwvupF0TbdxS7lol4r0gFYguaNMPdicMFR3ib6xvMe19Yg9iaAJZic537L2iaNx7dAsD6XQ/640?wx_fmt=jpeg&from=appmsg&watermark=1&tpwxpic&wxfrom=5&wx_lazy=1#imgIndex=1)
 
-如果已经配置了GitHub Actions，等待几分钟让自动部署完成。
+### 🚀 SWE-bench编码能力史上首次超越旗舰
 
-## 🎯 落地页特色
+更炸裂的是，在考验编码硬实力的**SWE-bench**上，**Gemini 3 Flash竟然飙到了78%的高分！**
 
-- ✨ 基于最新README内容重新设计
-- 🌈 生动活泼的视觉风格
-- 📊 清晰的性能数据对比
-- 💰 突出价格优势
-- 🚀 完全响应式设计
-- 🎮 丰富的动画效��
+- ✅ **超越竞品**: 78% vs Claude Sonnet 4.5 77.2%
+- ✅ **超越旗舰**: 78% vs 自家Gemini 3 Pro 76.2%
+- ✅ **史上首次**: 轻量级模型超越旗舰模型
 
-## 🔧 技术栈
+这简直是"以下克上"的典范，Flash系列彻底打了个翻身仗！
 
-- HTML5 + CSS3 + JavaScript
-- 响应式设计
-- SEO优化
-- GitHub Pages托管
+![SWE-bench性能对比](https://mmbiz.qpic.cn/sz_mmbiz_jpg/1ibrBHWruibROdUxWDD5I2RwvupF0TbdxSJ3E8icKXJeCNf0YxicEMPm6ibwxSyBdIXjYTeLJQHSYFhnRNGOyg2icLNA/640?wx_fmt=jpeg&from=appmsg&watermark=1&tp=wxpic&wxfrom=5&wx_lazy=1#imgIndex=2)
 
 ---
 
-*最后更新：2025年12月18日*
+## 🚀 眼见为实：Flash到底能干啥？颠覆你想象！
+
+光说不练假把式！这些抽象数据可能有点"烧脑"，但咱们直接上"干货"！看看**Gemini 3 Flash在实际应用中有多逆天！**
+
+### ⚡ 3D程序化房间生成
+
+**单次指令，瞬间生成完整动画3D程序化房间！**这速度，这效果，简直了！
+
+![3D房间生成演示](https://mmbiz.qpic.cn/sz_mmbiz_gif/1ibrBHWruibROdUxWDD5I2RwvupF0TbdxS6OV9icUjoHvDBusKQibECPibbmlmInZarnpbGKtNmD5lBAwxSibLqKNnZQ/640?wx_fmt=gif&from=appmsg&tpwxpic&wxfrom=5&wx_lazy=1#imgIndex=3)
+
+### 🎮 可玩游戏生成
+
+**一句话就能生成可玩游戏！**从文字到互动，未来游戏开发要变天了！
+
+![游戏生成演示](https://mmbiz.qpic.cn/sz_mmbiz_gif/1ibrBHWruibROdUxWDD5I2RwvupF0TbdxSyLHjUnWyFCUxr55awUcejkiacVMTHJsN0F9nqhv8UkGla6IYAPVmmEQ/640?wx_fmt=gif&from=appmsg&tpwxpic&wxfrom=5&wx_lazy=1#imgIndex=4)
+
+### 🤖 实时视频分析
+
+**Resemble AI用Gemini 3 Flash实时分析deepfake视频！**他们发现3 Flash的多模态分析**速度比2.5 Pro快了整整4倍**！在不拖慢关键工作流的情况下，高效处理海量音视频取证数据，这效率，谁不爱？
+
+---
+
+## 💰 性价比之王登场！Flash让"高端AI"不再是少数人专利！
+
+想当年，Google的Gemini 3 Pro和Deep Think一发布，就让Google重回AI霸主地位！Gemini API日均处理量更是突破了**1万亿tokens**！现在，Gemini 3 Flash完美补齐了家族拼图，更是带来了"普惠高性能"的重磅福利！
+
+### 📊 性能对比数据
+
+不信？咱们拿数据说话！看看Gemini 3 Flash是如何"降维打击"竞品的：
+
+| 基准测试项目 | Gemini 3 Flash | Claude Sonnet 4.5 | GPT-5.2 | Gemini 3 Pro |
+|-------------|---------------|------------------|---------|--------------|
+| **GPQA Diamond** (博士级科学推理) | **90.4%** | 83.4% | 92.4% | **91.9%** |
+| **MMMU-Pro** (多模态理解) | **81.2%** | 约65-70% | 79.5% | - |
+| **Humanity's Last Exam** (无工具) | **33.7%** | 13.7% | - | **37.5%** |
+| **SWE-bench Verified** (编码能力) | **78%** | 77.2% | - | 76.2% |
+
+> 💡 **小提示**: Claude Sonnet 4.5在MMMU-Pro上分数低于70%，Flash可领先它十几个百分点哦！
+
+### 💎 价格优势更疯狂
+
+更疯狂的是，**Gemini 3 Flash的价格大约是Claude的1/5、GPT的1/4**！
+
+用这么点钱，就能享受到打平甚至超越旗舰级的性能，这简直是AI界的"薅羊毛"福利！以前为了省钱得牺牲智能，现在嘛，**Flash让你省钱又省心，性能还顶尖！**
+
+![价格优势展示](https://mmbiz.qpic.cn/sz_mmbiz_jpg/1ibrBHWruibROdUxWDD5I2RwvupF0TbdxSIxq8CAxY2TqFUoqsvqDRQy1AkYicBMb4iaXIghWOTiaFedysOdNdj5c5w/640?wx_fmt=jpeg&from=appmsg&watermark=1&tp=wxpic&wxfrom=5&wx_lazy=1#imgIndex=5)
+
+### 🤔 Gemini 3 Pro还有啥用？
+
+看到这里，你可能要问了：那**Gemini 3 Pro还有啥用？**
+
+Google给出了明确的"分工方案"：
+
+- **👑 Gemini 3 Pro**: 适合需要极限推理的超复杂场景，比如GPQA Diamond和Humanity's Last Exam这种"天花板"级别测试，Pro依然略胜一筹，还有它独有的Deep Think模式
+- **⚡ Gemini 3 Flash**: 高频Agent任务、追求极致性价比和响应速度场景的"不二之选"
+
+讲真，对我们大多数日常应用来说，**Flash不仅够用，简直是"性价比之王"！**
+
+### ⚡ 效率和价格双重优势
+
+效率方面更是没得说！**Gemini 3 Flash比2.5 Pro快了3倍**，处理日常任务能平均节省30%的token消耗！定价更是良心：
+
+- **输入**: $0.50/百万tokens
+- **输出**: $3.00/百万tokens
+- **对比**: 只有3 Pro的四分之一！
+
+![性能成本最优解](https://mmbiz.qpic.cn/sz_mmbiz_jpg/1ibrBHWruibROdUxWDD5I2RwvupF0TbdxSnZ5dH6ibsf7BfiamX8f45ME0gH4LsTTtUKmjCiaLH8hPGczmfYicMf7PbQ/640?wx_fmt=jpeg&from=appmsg&watermark=1&tpwxpic&wxfrom=5&wx_lazy=1#imgIndex=6)
+
+Google官方更是霸气宣言：**"速度和规模，不必以牺牲智能为代价！"**以前听着像口号，现在Flash用实力证明，这真的不是在吹牛！
+
+---
+
+## 📱 免费用户，也能享受"总统套房"般的旗舰AI体验！
+
+Gemini 3 Flash的发布，可不只是开发者API升级那么简单，它将**直接改变我们每个普通用户的日常AI体验！**
+
+### 🔄 Gemini App升级
+
+在你的**Gemini App**里，**Gemini 3 Flash会直接替换掉原来的2.5 Flash，成为新的默认模型！**
+
+这意味着，全球所有Gemini用户，没错，**包括免费用户**，都将直接升级到Gemini 3级别的顶尖体验，不用花一分钱，更不用做任何设置！
+
+升级后的App会给你三种模式选择：
+
+- **⚡ Fast（极速）**: 默认就是咱们超强的**Gemini 3 Flash**驱动，日常问题秒回，效率杠杠的！
+- **🤔 Thinking（思考）**: 依然是**Flash 3**，但会激活它的"深度思考"模式，专门对付那些烧脑的复杂逻辑题！
+- **👑 Pro（专业）**: 保留了**Gemini 3 Pro**，遇到"史诗级"数学和代码难题，它就是你的终极武器！
+
+![Gemini App三种模式](https://mmbiz.qpic.cn/sz_mmbiz_jpg/1ibrBHWruibROdUxWDD5I2RwvupF0TbdxSDjPJULuHF2oBk8enFhSheFwonlR7XqnsRDNmkInicdb1mPDnqm2hO0w/640?wx_fmt=jpeg&from=appmsg&watermark=1&tpwxpic&wxfrom=5&wx_lazy=1#imgIndex=7)
+
+### 🔍 Google Search AI Mode升级
+
+甚至在我们的老朋友**Google Search**里，**AI Mode的默认模型也将在全球范围内升级到3 Flash！**
+
+Google说了，多亏了3 Flash强大的推理和多模态能力，AI Mode现在能更精准地理解你的"小心思"，处理更复杂、更多限制条件的问题，而且回答得条理清晰，让人一看就懂！
+
+对普通用户来说，这简直就是"天上掉馅饼"！你打开Gemini，用的就是最前沿的模型；你在Google搜索里问个难题，背后跑的就是融入顶级大模型能力的超级引擎！
+
+换句话说，**你现在免费用的默认模型，能力已经能和别家付费旗舰平起平坐，甚至更强！**
+
+---
+
+## 👨‍💻 开发者狂喜：不光省钱，简直是"躺着赚钱"！
+
+以前搞Agentic应用的开发者们，是不是总面临一个两难选择？
+
+- 要么用快但有点"笨"的小模型，任务质量可能打折
+- 要么用聪明但又慢又贵的大模型，成本和延迟让人头大
+
+尤其是在需要反复调用、高频迭代的Agent场景，这种痛苦简直是"家常便饭"！
+
+**Gemini 3 Flash完美终结了这场"选择困难症"！**
+
+它做到了：
+- ✅ **足够快**: 比2.5 Pro快3倍，搞定实时场景毫无压力
+- ✅ **足够聪明**: SWE-bench 78%的编码能力，轻松处理复杂编程任务
+- ✅ **成本可控**: 仅为竞品1/5的价格，大规模部署成为可能！
+
+### 🛠️ 已上线平台（预览版）
+
+目前，Gemini 3 Flash已经在以下平台上线啦，快去体验：
+
+- **🎨 Google AI Studio和Gemini API**
+- **💻 Gemini CLI**
+- **📱 Android Studio**
+- **🏢 Vertex AI**（企业级应用的首选）
+- **🚀 Google Antigravity**: Google新出的Agentic开发平台，专门为AI主导的软件开发流程设计，让AI Agent直接就能操作编辑器、终端和浏览器，简直不要太酷！
+
+### 💡 成本优化方案
+
+针对高频调用场景，Google还贴心地提供了**成本优化方案**：
+
+- **🔄 Context Caching功能**: 重复使用token达到一定量时，成本能直接降低90%！
+- **📦 Batch API**: 支持异步批量处理，成本还能再降50%，同时调用额度也更高！
+
+对于那些需要在生产环境里跑海量Agent任务的团队来说，这套"组合拳"简直是"梦幻联动"！
+
+---
+
+## 🎉 "Flash"的定义，被Google彻底改写！
+
+Gemini 3 Flash的发布，从某种意义上说，**是Google重新定义了"Flash"这个品类！**
+
+### 💫 新的"Flash"定义
+
+"Flash"——终于，它不再只是速度和效率的代名词了！
+
+过去，我们对轻量级模型的固有印象就是：为了追求速度和成本优势，必须牺牲一部分智能。但Gemini 3 Flash告诉我们：只要底层的基础模型足够强大，**轻量版本根本无需做太多能力阉割，它完全可以是一个"更高效的满配版"！**
+
+Google甚至在博客里提到一个细节：Gemini 3 Flash的核心模型能力已经强到，在很多任务上，**即使关掉思考模式的3 Flash，也比开着思考模式的2.5版本表现更好！**
+
+以前我们总要在速度和准确性之间做取舍，现在，你不用了！
+
+### 👨‍👩‍👧‍👦 完整的家族阵容
+
+这次发布也让Gemini 3家族阵容正式"全家福"：**Gemini 3 Pro、Gemini 3 Deep Think、Gemini 3 Flash**三个版本，完美覆盖了从轻度小白用户到硬核开发者的所有需求！
+
+- **🧠 Gemini 3 Pro**: 极限推理深度
+- **🤔 Gemini 3 Deep Think**: 最强综合能力
+- **⚡ Gemini 3 Flash**: 又快又好还便宜
+
+现在，不再是单选题，而是随心所欲的"多选组合"！
+
+### 📈 数据说话
+
+从数据来看，Google在AI产品化这条路上，真的是跑得又快又稳！
+
+- **6.5亿+**: Gemini App月活用户突破大关
+- **1300万+**: 开发者数量达到
+- **3倍**: API调用量直接同比增长
+- **增长**: 短短一个季度，用户数就从4.5亿猛增到6.5亿
+
+这增长速度，谁不眼红？
+
+---
+
+## 🌟 立即体验，开启AI新纪元！
+
+现在，普通用户可以直接在**Gemini App和Google Search的AI Mode**中，尽情体验这款新模型带来的惊喜；而开发者们，也赶紧通过**Google AI Studio和Gemini API**，开始构建你们的未来应用吧！
+
+### 🇨🇳 国内用户访问
+
+**国内用户可以访问这里体验哦**: https://maynorai.top/list/#/home
+
+### 👨‍💻 API使用指南
+
+**想使用API？请看这里**: https://apipro.maynor1024.live/
+
+---
+
+## 🎯 总结：新时代已来！
+
+当Google用Flash模型**1/5的价格，打出了旗舰级能力**的时候，**"Flash"这个品类的想象空间被彻底打开了，它预示着AI大模型将真正进入一个"普惠高性能"的全新时代！**
+
+**AI离我们，真的更近了！**
+
+---
+
+*最后更新：2025年12月18日 | Google Gemini 3 Flash - 轻量模型，旗舰性能*

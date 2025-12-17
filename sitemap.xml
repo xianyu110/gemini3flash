@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml"
+        xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+
+  <url>
+    <loc>https://xianyu110.github.io/gemini3flash/</loc>
+    <lastmod>2025-12-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+
+    <!-- 页面信息 -->
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://xianyu110.github.io/gemini3flash/"/>
+
+    <!-- 图片信息 -->
+    <image:image>
+      <image:loc>https://mmbiz.qpic.cn/sz_mmbiz_jpg/1ibrBHWruibROdUxWDD5I2RwvupF0TbdxSZKQMmxX4I9Qwadcx8xaKnJezNnd1JR1bRHAQUeOYeq0iayevojXmcXA/640</image:loc>
+      <image:title>Google Gemini 3 Flash 性能对比图表</image:title>
+      <image:caption>Google Gemini 3 Flash 在各项基准测试中的表现对比</image:caption>
+    </image:image>
+
+    <!-- 新闻信息 -->
+    <news:news>
+      <news:publication>
+        <news:name>AI模型评测</news:name>
+        <news:language>zh-CN</news:language>
+      </news:publication>
+      <news:genres>Technology, Artificial Intelligence</news:genres>
+      <news:publication_date>2025-12-18T00:00:00Z</news:publication_date>
+      <news:title>Google Gemini 3 Flash深度评测：SWE-bench 78%高分，价格仅为Claude 1/5</news:title>
+      <news:keywords>Google Gemini 3 Flash, AI模型, SWE-bench, 人工智能, 机器学习</news:keywords>
+    </news:news>
+  </url>
+
+</urlset>
