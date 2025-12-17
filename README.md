@@ -4,9 +4,9 @@
 
 **2025年12月18日，Google正式发布革命性的Gemini 3 Flash模型！**
 
-别被"��量级"标签骗了，这家伙的性能简直让人瞠目结舌！更疯狂的是，它的**定价只有Claude的1/5、GPT的1/4**！用白菜价，打出了旗舰级的水准，这波操作，Google真的赢麻了！
+别被"轻量级"标签骗了，这家伙的性能简直让人瞠目结舌！更疯狂的是，它的**定价只有Claude的1/5、GPT的1/4**！用白菜价，打出了旗舰级的水准，这波操作，Google真的赢麻了！
 
-![Gemini 3 Flash发布](https://mmbiz.qpic.cn/sz_mmbiz_jpg/1ibrBHWruibROdUxWDD5I2RwvupF0TbdxSZKQMmxX4I9Qwadcx8xaKnJezNnd1JR1bRHAQUeOYeq0iayevojXmcXA/640?wx_fmt=jpeg&from=appmsg&wxfrom=13&tp=wxpic&watermark=1#imgIndex=0)
+![Gemini 3 Flash发布](https://i-blog.csdnimg.cn/img_convert/1a692d65900e813605ec29fbddfc5bc3.jpeg)
 
 ---
 
@@ -16,9 +16,11 @@
 
 **Gemini 3 Flash彻底改写了游戏规则！**它用轻量级的身躯，爆发出了旗舰级的能量，完美实现了速度、成本和智能的"不可能三角"平衡！
 
-### 📊 多模态评估基准MMMU-Pro表现抢眼
+### 📊 MMMU-Pro多模态评估基准表现抢眼
 
-![MMMU-Pro性能展示](https://mmbiz.qpic.cn/sz_mmbiz_jpg/1ibrBHWruibROdUxWDD5I2RwvupF0TbdxS7lol4r0gFYguaNMPdicMFR3ib6xvMe19Yg9iaAJZic537L2iaNx7dAsD6XQ/640?wx_fmt=jpeg&from=appmsg&watermark=1&tpwxpic&wxfrom=5&wx_lazy=1#imgIndex=1)
+看看它在多模态评估基准**MMMU-Pro**上的表现，简直不要太抢眼！👇
+
+![MMMU-Pro性能展示](https://i-blog.csdnimg.cn/img_convert/37525160acdd5e1a15ee267824259f36.jpeg)
 
 ### 🚀 SWE-bench编码能力史上首次超越旗舰
 
@@ -30,7 +32,7 @@
 
 这简直是"以下克上"的典范，Flash系列彻底打了个翻身仗！
 
-![SWE-bench性能对比](https://mmbiz.qpic.cn/sz_mmbiz_jpg/1ibrBHWruibROdUxWDD5I2RwvupF0TbdxSJ3E8icKXJeCNf0YxicEMPm6ibwxSyBdIXjYTeLJQHSYFhnRNGOyg2icLNA/640?wx_fmt=jpeg&from=appmsg&watermark=1&tp=wxpic&wxfrom=5&wx_lazy=1#imgIndex=2)
+![SWE-bench性能对比](https://i-blog.csdnimg.cn/img_convert/dda77708b27bfb5e45a7c9d81d972be0.jpeg)
 
 ---
 
@@ -42,17 +44,17 @@
 
 **单次指令，瞬间生成完整动画3D程序化房间！**这速度，这效果，简直了！
 
-![3D房间生成演示](https://mmbiz.qpic.cn/sz_mmbiz_gif/1ibrBHWruibROdUxWDD5I2RwvupF0TbdxS6OV9icUjoHvDBusKQibECPibbmlmInZarnpbGKtNmD5lBAwxSibLqKNnZQ/640?wx_fmt=gif&from=appmsg&tpwxpic&wxfrom=5&wx_lazy=1#imgIndex=3)
+![3D房间生成演示](https://i-blog.csdnimg.cn/img_convert/bb915c7b8a31ccab123526cb42f3ab54.gif)
 
 ### 🎮 可玩游戏生成
 
 **一句话就能生成可玩游戏！**从文字到互动，未来游戏开发要变天了！
 
-![游戏生成演示](https://mmbiz.qpic.cn/sz_mmbiz_gif/1ibrBHWruibROdUxWDD5I2RwvupF0TbdxSyLHjUnWyFCUxr55awUcejkiacVMTHJsN0F9nqhv8UkGla6IYAPVmmEQ/640?wx_fmt=gif&from=appmsg&tpwxpic&wxfrom=5&wx_lazy=1#imgIndex=4)
+![游戏生成演示](https://i-blog.csdnimg.cn/img_convert/d790ad40162cc533e4e20f151df5a2d5.gif)
 
 ### 🤖 实时视频分析
 
-**Resemble AI用Gemini 3 Flash实时分析deepfake视频！**他们发现3 Flash的多模态分析**速度比2.5 Pro快了整整4倍**！在不拖慢关键工作流的情况下，高效处理海量音视频取证数据，这效率，谁不爱？
+**Resemble AI用Gemini 3 Flash实时分析deepfake视频！**他们发现3 Flash��多模态分析**速度比2.5 Pro快了整整4倍**！在不拖慢关键工作流的情况下，高效处理海量音视频取证数据，这效率，谁不爱？
 
 ---
 
@@ -79,7 +81,7 @@
 
 用这么点钱，就能享受到打平甚至超越旗舰级的性能，这简直是AI界的"薅羊毛"福利！以前为了省钱得牺牲智能，现在嘛，**Flash让你省钱又省心，性能还顶尖！**
 
-![价格优势展示](https://mmbiz.qpic.cn/sz_mmbiz_jpg/1ibrBHWruibROdUxWDD5I2RwvupF0TbdxSIxq8CAxY2TqFUoqsvqDRQy1AkYicBMb4iaXIghWOTiaFedysOdNdj5c5w/640?wx_fmt=jpeg&from=appmsg&watermark=1&tp=wxpic&wxfrom=5&wx_lazy=1#imgIndex=5)
+![价格优势展示](https://i-blog.csdnimg.cn/img_convert/37700a4cb2dd3a88e43467e147938e4c.jpeg)
 
 ### 🤔 Gemini 3 Pro还有啥用？
 
@@ -98,9 +100,9 @@ Google给出了明确的"分工方案"：
 
 - **输入**: $0.50/百万tokens
 - **输出**: $3.00/百万tokens
-- **对比**: 只有3 Pro的四分之一！
+- **对��**: 只有3 Pro的四分之一！
 
-![性能成本最优解](https://mmbiz.qpic.cn/sz_mmbiz_jpg/1ibrBHWruibROdUxWDD5I2RwvupF0TbdxSnZ5dH6ibsf7BfiamX8f45ME0gH4LsTTtUKmjCiaLH8hPGczmfYicMf7PbQ/640?wx_fmt=jpeg&from=appmsg&watermark=1&tpwxpic&wxfrom=5&wx_lazy=1#imgIndex=6)
+![性能成本最优解](https://i-blog.csdnimg.cn/img_convert/11962d193f3230db8ee7900850ea2096.jpeg)
 
 Google官方更是霸气宣言：**"速度和规模，不必以牺牲智能为代价！"**以前听着像口号，现在Flash用实力证明，这真的不是在吹牛！
 
@@ -122,7 +124,7 @@ Gemini 3 Flash的发布，可不只是开发者API升级那么简单，它将**�
 - **🤔 Thinking（思考）**: 依然是**Flash 3**，但会激活它的"深度思考"模式，专门对付那些烧脑的复杂逻辑题！
 - **👑 Pro（专业）**: 保留了**Gemini 3 Pro**，遇到"史诗级"数学和代码难题，它就是你的终极武器！
 
-![Gemini App三种模式](https://mmbiz.qpic.cn/sz_mmbiz_jpg/1ibrBHWruibROdUxWDD5I2RwvupF0TbdxSDjPJULuHF2oBk8enFhSheFwonlR7XqnsRDNmkInicdb1mPDnqm2hO0w/640?wx_fmt=jpeg&from=appmsg&watermark=1&tpwxpic&wxfrom=5&wx_lazy=1#imgIndex=7)
+![Gemini App三种模式](https://i-blog.csdnimg.cn/img_convert/8e1b301004be30824b71d13e2468698e.jpeg)
 
 ### 🔍 Google Search AI Mode升级
 
@@ -216,7 +218,7 @@ Google甚至在博客里提到一个细节：Gemini 3 Flash的核心模型能力
 
 ### 🇨🇳 国内用户访问
 
-**国内用户可以访问这里体验哦**: https://maynorai.top/list/#/home
+**国内用��可以访问这里体验哦**: https://maynorai.top/list/#/home
 
 ### 👨‍💻 API使用指南
 
