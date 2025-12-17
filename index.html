@@ -236,30 +236,52 @@
     </script>
 </head>
 <body>
-    <!-- Navigation -->
-    <nav class="navbar">
-        <div class="nav-container">
-            <div class="nav-logo">
-                <span class="logo-icon">🔥</span>
-                <span class="logo-text">Gemini 3 Flash</span>
-            </div>
-            <ul class="nav-menu">
-                <li><a href="#performance">逆天性能</a></li>
-                <li><a href="#showcase">眼见为实</a></li>
-                <li><a href="#comparison">降维打击</a></li>
-                <li><a href="#pricing">性价比之王</a></li>
-                <li><a href="#access">立即体验</a></li>
-            </ul>
-            <div class="nav-toggle">
-                <span></span>
-                <span></span>
-                <span></span>
-            </div>
+    <!-- 面包屑导航 -->
+    <nav aria-label="面包屑导航" class="breadcrumb">
+        <div class="container">
+            <ol itemscope itemtype="https://schema.org/BreadcrumbList">
+                <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+                    <a itemprop="item" href="https://xianyu110.github.io/gemini3flash/">
+                        <span itemprop="name">首页</span>
+                    </a>
+                    <meta itemprop="position" content="1">
+                </li>
+                <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+                    <span itemprop="name">Google Gemini 3 Flash评测</span>
+                    <meta itemprop="position" content="2">
+                </li>
+            </ol>
         </div>
     </nav>
 
-    <!-- Hero Section -->
-    <section class="hero">
+    <!-- 主导航 -->
+    <header role="banner">
+        <nav class="navbar" role="navigation" aria-label="主导航">
+            <div class="nav-container">
+                <div class="nav-logo">
+                    <span class="logo-icon" aria-hidden="true">🔥</span>
+                    <span class="logo-text">Gemini 3 Flash</span>
+                </div>
+                <ul class="nav-menu" role="menubar">
+                    <li role="none"><a href="#performance" role="menuitem">逆天性能</a></li>
+                    <li role="none"><a href="#showcase" role="menuitem">眼见为实</a></li>
+                    <li role="none"><a href="#comparison" role="menuitem">降维打击</a></li>
+                    <li role="none"><a href="#pricing" role="menuitem">性价比之王</a></li>
+                    <li role="none"><a href="#access" role="menuitem">立即体验</a></li>
+                </ul>
+                <button class="nav-toggle" aria-label="切换菜单" aria-expanded="false">
+                    <span aria-hidden="true"></span>
+                    <span aria-hidden="true"></span>
+                    <span aria-hidden="true"></span>
+                </button>
+            </div>
+        </nav>
+    </header>
+
+    <!-- 主要内容 -->
+    <main>
+        <!-- Hero Section -->
+        <section class="hero" aria-labelledby="hero-title">
         <div class="hero-container">
             <div class="hero-content">
                 <div class="hero-badge">

@@ -1,0 +1,28 @@
+# robots.txt for https://xianyu110.github.io/gemini3flash/
+
+User-agent: *
+Allow: /
+
+# 允许所有搜索引擎访问
+Allow: /
+
+# 站点地图位置
+Sitemap: https://xianyu110.github.io/gemini3flash/sitemap.xml
+
+# 允许访问图片、CSS、JavaScript文件
+Allow: *.css
+Allow: *.js
+Allow: *.jpg
+Allow: *.jpeg
+Allow: *.png
+Allow: *.gif
+Allow: *.svg
+
+# 禁止访问临时文件和缓存
+Disallow: *.tmp
+Disallow: *.cache
+Disallow: /temp/
+Disallow: /cache/
+
+# 爬取延迟（针对特定爬虫）
+Crawl-delay: 1

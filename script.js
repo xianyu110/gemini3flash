@@ -1,6 +1,7 @@
 // DOM Content Loaded Event
 document.addEventListener('DOMContentLoaded', function() {
     // Initialize all functionality
+    initSEO();
     initNavigation();
     initSmoothScrolling();
     initScrollAnimations();
@@ -8,10 +9,150 @@ document.addEventListener('DOMContentLoaded', function() {
     initParallaxEffects();
     initLazyLoading();
     initMobileOptimizations();
+    initPerformanceOptimization();
 
     // Add page load animation
     document.body.classList.add('fade-in');
+
+    // 设置页面标题和描述
+    updatePageMetadata();
 });
+
+// SEO优化初始化
+function initSEO() {
+    // 添加结构化数据
+    addBreadcrumbStructuredData();
+
+    // 优化图片alt属性
+    optimizeImageAltTexts();
+
+    // 设置语言属性
+    document.documentElement.lang = 'zh-CN';
+
+    // 添加canonical链接
+    addCanonicalLink();
+
+    // 优化内部链接
+    optimizeInternalLinks();
+}
+
+// 添加面包屑结构化数据
+function addBreadcrumbStructuredData() {
+    const breadcrumbScript = document.createElement('script');
+    breadcrumbScript.type = 'application/ld+json';
+    breadcrumbScript.textContent = JSON.stringify({
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "首页",
+                "item": "https://xianyu110.github.io/gemini3flash/"
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Google Gemini 3 Flash评测",
+                "item": "https://xianyu110.github.io/gemini3flash/"
+            }
+        ]
+    });
+    document.head.appendChild(breadcrumbScript);
+}
+
+// 优化图片alt文本
+function optimizeImageAltTexts() {
+    const images = document.querySelectorAll('img:not([alt])');
+    images.forEach((img, index) => {
+        const section = img.closest('section');
+        const sectionTitle = section ? section.querySelector('h2, h3')?.textContent : '';
+        img.alt = `Google Gemini 3 Flash ${sectionTitle || '演示图片'} ${index + 1}`;
+    });
+}
+
+// 添加canonical链接
+function addCanonicalLink() {
+    let canonicalLink = document.querySelector('link[rel="canonical"]');
+    if (!canonicalLink) {
+        canonicalLink = document.createElement('link');
+        canonicalLink.rel = 'canonical';
+        canonicalLink.href = 'https://xianyu110.github.io/gemini3flash/';
+        document.head.appendChild(canonicalLink);
+    }
+}
+
+// 优化内部链接
+function optimizeInternalLinks() {
+    const internalLinks = document.querySelectorAll('a[href^="#"]');
+    internalLinks.forEach(link => {
+        link.addEventListener('click', function(e) {
+            const href = this.getAttribute('href');
+            if (href && href !== '#') {
+                const target = document.querySelector(href);
+                if (target) {
+                    e.preventDefault();
+                    target.scrollIntoView({ behavior: 'smooth' });
+                    // 更新URL但不刷新页面
+                    history.pushState(null, null, href);
+                }
+            }
+        });
+    });
+}
+
+// 更新页面元数据
+function updatePageMetadata() {
+    // 动态更新页面标题
+    const performanceScore = document.querySelector('.stat-number');
+    if (performanceScore && performanceScore.textContent) {
+        const title = document.title;
+        document.title = `Gemini 3 Flash ${performanceScore.textContent} SWE-bench | ${title}`;
+    }
+
+    // 更新页面描述
+    const heroSubtitle = document.querySelector('.hero-subtitle');
+    if (heroSubtitle) {
+        let metaDescription = document.querySelector('meta[name="description"]');
+        if (metaDescription) {
+            metaDescription.content = heroSubtitle.textContent.replace(/<[^>]*>/g, '').substring(0, 160);
+        }
+    }
+}
+
+// 性能优化
+function initPerformanceOptimization() {
+    // 预加载关键资源
+    const criticalImages = document.querySelectorAll('img[src*="mmbiz.qpic.cn"]');
+    criticalImages.forEach(img => {
+        if (img.complete) return;
+
+        const preloadLink = document.createElement('link');
+        preloadLink.rel = 'preload';
+        preloadLink.as = 'image';
+        preloadLink.href = img.src;
+        document.head.appendChild(preloadLink);
+    });
+
+    // 优化字体加载
+    const fonts = document.querySelectorAll('link[href*="fonts.googleapis.com"]');
+    fonts.forEach(font => {
+        font.rel = 'preload';
+        font.as = 'style';
+        font.onload = function() {
+            this.rel = 'stylesheet';
+        };
+    });
+
+    // 延迟加载非关键图片
+    setTimeout(() => {
+        const lazyImages = document.querySelectorAll('img[data-src]');
+        lazyImages.forEach(img => {
+            img.src = img.dataset.src;
+            img.removeAttribute('data-src');
+        });
+    }, 1000);
+}
 
 // Navigation Menu Toggle
 function initNavigation() {
